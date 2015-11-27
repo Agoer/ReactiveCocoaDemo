@@ -1,0 +1,7 @@
+platform :ios, "7.0"
+
+pod "ReactiveCocoa"
+
+target :ReactiveCocoaDemoTests, :exclusive => true do
+  # pod 'Kiwi'
+end
